@@ -29,3 +29,16 @@ Type of Key
     |                       |                         |
     |                       |                         |
 1.Primary key       2.Composite Primary key     3.Foreign Key
+
+
+Primary key ::
+                Primary key is a unique vale of the field all value will be unique
+
+
+Composite Primary key :
+                if their is not a unique field in the table their we use two value form 
+                different field to make  a unique key (csc111,Du) (csc111,Bup)
+
+Foreign key:
+            when we use the Primary key of another table to track the value their we called 
+            Foreign key
