@@ -39,3 +39,25 @@ SQL : it is a Language like ---> Python , java and so on
 
 MySQL: it a relational data base We use SQL Language for MySQL database 
 
+
+Variable in SQL :
+1. Numeric type : INT 
+
+2. String Type : CHAR --> CHAR(4) : we have to use 4 data note less not more 
+                 VACHAR -->VACHAR(4): We can use less then 4 value not more then 4
+
+3. DateTime Type: 
+                DATE --> 21 OCT 1997
+                TIME --> 03 : 33: 54 hour,min,seconds
+                DateTime
+4. Boolean Type: BOOL : 0/1 
+
+
+5. Binary Type: file save .
+                    BINARY (1000000)
+
+6. SET Type : Unique value : 1,2,3,2,2,3--->1,2,3
+                SET(--,--, --)
+7. BIT Type: BIT(5)
+
+    There are some another type of Variable in SQL Language
