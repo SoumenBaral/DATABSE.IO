@@ -30,3 +30,12 @@ SQL are mainly 4 types
 
     4. DTL(Data Transfer Language):
 
+
+
+
+----------------SQL vs MySQL:---------------------
+
+SQL : it is a Language like ---> Python , java and so on 
+
+MySQL: it a relational data base We use SQL Language for MySQL database 
+
