@@ -14,3 +14,18 @@ So , we can say that name is key
 
 Primary key ::
                 Primary key is a unique vale of the field all value will be unique
+
+
+
+
+
+Type of Key 
+
+                         | key |
+                    ================
+                            |
+                           \|/
+    ---------------------------------------------------                   
+    |                       |                         |
+    |                       |                         |
+1.Primary key       2.Composite Primary key     3.Foreign Key
