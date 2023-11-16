@@ -6,7 +6,8 @@ Installing mysql in ubantu comment :
 4.  sudo mysql_secure_installation
 5.  sudo mysql -u root -p
 6.  sudo snap install mysql-workbench-community
-7.  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+7.  sudo mysql
+8.  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 7.  @17060Sb
 
 
