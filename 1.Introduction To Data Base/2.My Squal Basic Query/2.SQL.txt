@@ -1,4 +1,32 @@
-                        SQL --> Standard Query Language 
+                        SQL --> Structured Query Language 
                     --------------------------------------
                     ......................................
+
+
+Query Language are mainly three types 
+
+1. QUBL---> Query Language
+2. QUE ---> Query by Example
+3. SQL ---> Structured Query Language
+
+SQL are mainly 4 types
+
+    1. DML : (Data manipulation Language): 
+             they are mainly 4 types:
+
+               i) select ---> select Data
+              ii) Insert ----> Insert a new think like element 
+             iii) Update ----> value Update
+              iv) Delete ---->value Delete
+    2. DDL (Data Definition Language):
+            They are mainly 3 types:
+
+            i) create --->create a new table 
+           ii) Append ---> add new Colum Structural Change happen in DDL
+          iii) Drop -----> Delete the full table
+    
+    3. DCL(Data Control Language):
+
+
+    4. DTL(Data Transfer Language):
 
