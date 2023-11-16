@@ -42,3 +42,4 @@ Composite Primary key :
 Foreign key:
             when we use the Primary key of another table to track the value their we called 
             Foreign key
+            
