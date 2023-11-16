@@ -1,0 +1,16 @@
+                        Primary key
+                ==========================
+
+
+Key : By the using of key we can get the the vale
+
+A  Database store everything in Table 
+
+
+Think we have a Table and we know some one name in this table we can get the another info 
+by the using of the name 
+So , we can say that name is key
+
+
+Primary key ::
+                Primary key is a unique vale of the field all value will be unique
