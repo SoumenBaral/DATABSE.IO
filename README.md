@@ -25,7 +25,8 @@ source vvv/bin/activate
 -----------------------------------------
 
 
-#MysQl pakage install commend :
+
+# MysQl pakage install commend :
 
 pip install mysql-connector-python
 
