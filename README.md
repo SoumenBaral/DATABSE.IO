@@ -20,6 +20,7 @@ sudo apt install python3-venv
 Then:
 ---------------------------------------
 python3 -m venv vvv
-source vvv/bin/activate
 ------------------------------------------
+source vvv/bin/activate
+
 
