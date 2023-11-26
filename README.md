@@ -22,5 +22,11 @@ Then:
 python3 -m venv vvv
 ------------------------------------------
 source vvv/bin/activate
+-----------------------------------------
+
+
+#MysQl pakage install commend :
+
+pip install mysql-connector-python
 
 
