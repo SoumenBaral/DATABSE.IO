@@ -15,7 +15,7 @@ Installing mysql in ubantu comment :
 
 You need to install python3-venv:
 -------------------------------------
-----> sudo apt install python3-venv
+--> sudo apt install python3-venv
 
 Then:
 1. python3 -m venv vvv
@@ -24,6 +24,9 @@ Then:
 
 # MysQl pakage install commend :
 
- pip install mysql-connector-python
+ --> pip install mysql-connector-python
 
+# Get the version file 
+
+--> pip freeze > requirement.txt
 
