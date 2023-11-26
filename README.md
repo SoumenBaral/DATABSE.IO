@@ -11,3 +11,15 @@ Installing mysql in ubantu comment :
 7.  @17060Sb
 
 
+# Environment SetUp in Python for Linux and Activate venv :
+
+You need to install python3-venv:
+-------------------------------------
+sudo apt install python3-venv
+--------------------------------------
+Then:
+---------------------------------------
+python3 -m venv vvv
+source vvv/bin/activate
+------------------------------------------
+
