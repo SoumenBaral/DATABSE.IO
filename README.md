@@ -30,3 +30,9 @@ Then:
 
 --> pip freeze > requirement.txt
 
+# install django 
+
+--> sudo apt install python3-django
+
+
+
