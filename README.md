@@ -30,9 +30,26 @@ Then:
 
 --> pip freeze > requirement.txt
 
+
+
+
+
+
+# Start Project in django final in global: 
+-------------------------------------------
+1. sudo apt install python3-django
+2.  django-admin --version 
+3. django-admin startproject myproject
+4. cd myproject
+5. python3 manage.py migrate
+6. python3 manage.py createsuperuser
+7. python3 manage.py runserver
+
+
+
 # install django 
 
---> sudo apt install python3-django
+--> 
 
 
 
