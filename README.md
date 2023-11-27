@@ -47,9 +47,6 @@ Then:
 
 
 
-# install django 
-
---> 
 
 
 
