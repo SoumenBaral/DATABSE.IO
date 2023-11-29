@@ -19,7 +19,9 @@ You need to install python3-venv:
 
 Then:
 1. python3 -m venv vvv
-2. source vvv/bin/activate
+2. virtualenv Project_name
+3. source Project_name/bin/activate
+4. pip install pymysql
 
 
 # MysQl pakage install commend :
