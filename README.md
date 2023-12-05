@@ -47,7 +47,10 @@ Then:
 6. python3 manage.py createsuperuser
 7. python3 manage.py runserver
 
-
+# Crispy Form : 
+---------------------------------------------------------
+We already install it so we don't need to install it anymore :
+via: pip install crispy-bootstrap5
 
 
 
