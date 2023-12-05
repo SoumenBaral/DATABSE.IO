@@ -54,7 +54,7 @@ via: pip install crispy-bootstrap5
 
 Add This in Sattings.py
 
-INSTALLED_APPS = (
+apps = (
     ...
     "crispy_forms",
     "crispy_bootstrap5",
