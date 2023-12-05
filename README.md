@@ -52,6 +52,19 @@ Then:
 We already install it so we don't need to install it anymore :
 via: pip install crispy-bootstrap5
 
+Add This in Sattings.py
+
+INSTALLED_APPS = (
+    ...
+    "crispy_forms",
+    "crispy_bootstrap5",
+    ...
+)
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
+
+CRISPY_TEMPLATE_PACK = "bootstrap5"
+
 
 
 
