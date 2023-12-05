@@ -56,7 +56,7 @@ Add This in Sattings.py
 
 apps = (
     ...
-    "crispy_forms",
+    "crispy_forms",<br>
     "crispy_bootstrap5",
     ...
 )
